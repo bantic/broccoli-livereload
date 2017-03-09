@@ -1,7 +1,7 @@
 {
   "name": "broccoli-livereload",
   "version": "1.0.0",
-  "description": "Broccoli plugin for adding livereload capabilities",
+  "description": "Broccoli plugin for adding livereload capabilities - changed",
   "main": "lib/index.js",
   "scripts": {
     "test-watch": "mocha test/spec --watch --check-leaks",
